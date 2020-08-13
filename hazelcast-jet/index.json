@@ -21,6 +21,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "hazelcast/hazelcast-jet:4.2"
+    "imageid": "franthartm/hazelcast-jet-katacoda"
   }
 }
