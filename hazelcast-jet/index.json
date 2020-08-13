@@ -21,6 +21,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "franthartm/hazelcast-jet-katacoda"
+    "imageid": "ubuntu:1804"
   }
 }
