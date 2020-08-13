@@ -12,6 +12,8 @@
     ],
     "intro": {
       "text": "intro.md"
+      "courseData": "docker pull franthartm/hazelcast-jet-katacoda"
+      "code":"docker run -it franthartm/hazelcast-jet-katacoda"
     },
     "finish": {
       "text": "finish.md"
